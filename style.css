@@ -1,0 +1,130 @@
+body{margin:0 auto;
+    background-color:#0e076bc9;
+   text-align: center;
+    font-family: Merriweather;
+    max-width: 600px;
+   
+}
+#apresentacao{
+    background-color: black;
+}
+nav > p{
+    color: white;
+}
+
+h1{
+     color: #F20C1F;
+}
+.nome-da-logo{
+    color: rgb(209, 255, 5);
+}
+.image-container {
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+color: white;
+background-color: rgba(0, 0, 0, 0.76);
+
+}
+.assinar{
+    background-color:white ;
+    color:rgb(0, 0, 0) ;    
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+#funciona{
+    margin: 10px;
+    font-size: 75%;
+
+}
+#funciona{
+    color: white;
+}
+#compativel{
+background-color: #f0f0f063;
+}
+
+.container {
+    border-radius: 50%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.lista-esquerda,
+.lista-direita {
+   
+    width: 48%;
+    list-style: none;
+    padding: 0;
+    margin: 0; 
+}
+
+.lista-esquerda li,
+.lista-direita li {
+    margin: 5px 0;
+}
+.lista-esquerda {
+    color: black;
+    background-color: #f0f0f0;
+    padding: 10px;
+}
+
+.lista-direita {
+    font-family: Merriweather;
+    color: black;
+    background-color: #e0e0e0; 
+    padding: 10px;}
+
+.cor-verde{
+color: rgb(73, 238, 73);
+}
+.cor-vermelho{
+ color: rgb(255, 255, 255);
+}
+#teste{
+    padding: 10px;
+    background-color: white;
+    margin-bottom: 20px;
+}
+.botao-teste{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    
+}
+#planos{
+    padding-top: 20px;
+    border-radius: 20px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.822);
+}
+#planos >h2{
+    font-size: 2em;
+}
+
+#pagamento{
+    background-color: #b4b2b2;
+    
+}
+.botao-whatsapp {
+    width: 50px; /* Defina a largura desejada */
+    height: 50px; /* Defina a altura desejada */
+    position: fixed;
+    left: 20px;
+    bottom: 20px; 
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 5px;
+    font-size: 10px;
+}
